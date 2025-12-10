@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Shilu Shrestha**
 ### MSc Artificial Intelligence · Software Architect (12+ yrs) · Machine Learning Systems Researcher
 
-Bath, United Kingdom · ss5933@bath.ac.uk  
+Bath, United Kingdom 
 
 ---
 
