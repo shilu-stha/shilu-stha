@@ -135,10 +135,6 @@ If you’d like to collaborate, hire, or discuss ideas, feel free to reach out:
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shilu-stha&theme=highcontrast)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilu-stha&show_icons=true&theme=tokyonight)
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 _Thank you for visiting my profile! This page will continue to evolve throughout my MSc and upcoming projects._
