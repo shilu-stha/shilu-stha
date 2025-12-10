@@ -1,86 +1,138 @@
 # 👋 Hi, I'm **Shilu Shrestha**
-### MSc Artificial Intelligence · Software Architect (12+ yrs) · Machine Learning Systems Researcher
+### MSc Artificial Intelligence (University of Bath) · Software Architect · Full-Stack & Mobile Engineer  
+Bath, United Kingdom
 
-Bath, United Kingdom 
-
----
-
-## 🚀 About Me
-
-I’m a **Software Architect turned Machine Learning Researcher**, currently studying  
-**MSc Artificial Intelligence at the University of Bath**.  
-
-With **12+ years** of leadership in mobile, web, backend and distributed systems  
-(CTO, Senior Software Engineer, Architect), I am now transitioning into **ML Systems**,  
-focusing on:
-
-- Efficient training & optimisation  
-- Multi-agent reinforcement learning  
-- Deep learning theory (CNNs, Transformers, Bayesian modelling)  
-- ML deployment, scalability & system design  
-- LLM integration & retrieval-augmented pipelines (RAG)  
-
-My background combines **strong engineering depth** with **research-driven curiosity**.
+📧 sth.shilu@gmail.com
+🔗 Blog: https://YOUR-BLOG-LINK  
+🔗 LinkedIn: https://linkedin.com/in/shilushrestha
+🔗 GitHub: https://github.com/shilu-stha
 
 ---
 
-## 🔬 Research Interests
-- **Machine Learning Systems**  
-  Scalability, efficient inference, optimisation, distributed training  
-- **Reinforcement Learning (Multi-Agent)**  
-  Coordination, decentralised learning, system constraints  
-- **Deep Learning**  
-  CNNs, representation learning  
-- **LLM Systems**  
-  Model serving, embedding pipelines, RAG optimisation  
+## 👩‍💻 About Me
+
+I’m a **Software Architect and Engineer with 12+ years of hands-on development experience**, currently pursuing my **MSc in Artificial Intelligence** at the University of Bath.  
+
+I bring extensive experience across **mobile apps, web platforms, backend engineering, cloud services, AI-integrated systems**, and large production applications. After years of leading projects end-to-end, I am now expanding into advanced ML and AI during my master’s studies — combining my engineering depth with new emerging skills.
+
+I am highly **adaptable, fast-learning, efficient**, and comfortable switching between roles such as developer, architect, team lead, problem-solver, or freelancer. I thrive in environments where quick thinking, clear structure, and practical delivery are valued.
+
+I’m currently using my GitHub to document my learning, personal projects, and upcoming AI coursework — starting with a structured ML blog series.
 
 ---
 
-## 📚 ML Blog Series (2024–2025)
-A series of research-oriented articles I wrote while shifting into ML.
+## 🎓 Current Focus  
+**MSc in Artificial Intelligence (University of Bath)**  
+Modules include: Machine Learning, Applied AI, Deep Learning, Probability & Statistics, Reinforcement Learning, Data Analysis.
 
-📖 **https://YOUR-WEBSITE/blog**
----
+My MSc is helping me strengthen fundamentals such as:
+- Optimisation  
+- Classical ML (regression, Bayesian methods)  
+- Deep learning (CNNs, representation learning)  
+- Reinforcement learning (multi-agent basics)  
+- Statistical reasoning  
 
-## 🛠️ Skills
-
-**Languages:** Python, JavaScript, TypeScript, SQL, NoSQL  
-**ML:** PyTorch, TensorFlow, NumPy, Scikit-learn  
-**Specialties:** CNNs, RL, Optimisation, LLMs (GPT-4o), Embeddings, RAG  
-**Systems:** Distributed systems, cloud functions, CI/CD, production architecture  
-**Tools:** Jupyter, VS Code, Power BI, FastAPI, Flask
-
----
-
-## 🎓 Education
-
-### 🎓 MSc Artificial Intelligence  
-**University of Bath (2025–2026)**  
-Modules: Applied AI, Machine Learning, Deep Learning, Reinforcement Learning, Statistics  
-_Referenced from CV_  [oai_citation:8‡CV Shilu Shrestha.pdf](sediment://file_000000003040720a9c736b93ab8d7fa7)
-
-### 🎓 B.E. Information Technology  
-Pokhara University (2013)
+I’m in a transition phase where I am exploring how to combine my **strong engineering background** with **AI skills** to prepare for future roles in intelligent systems, ML-enabled products, automation, and scalable software.
 
 ---
 
-## 🌱 Currently Learning
-- Multi-Agent RL  
-- Distributed ML Training  
-- Bayesian ML  
-- LLM Systems & Efficient Serving
+## 💼 Professional Experience (Highlights)
+
+### **Senior Software Engineer – Danphe Software Labs (2024–2025)**
+- Built and improved large platform architectures, reducing processing time by 20%.  
+- Developed multi-language support for global CRM expansion.  
+- Provided technical leadership and conducted systematic code reviews.
+- Supported integration of GPT-4o and embeddings by updating prompts, validating outputs, and coordinating UI adjustments.
+- Assisted in improving RAG-based search by refining prompt templates and performing quality checks.
 
 ---
 
-## 🌟 Goals for 2025–2026
-- Publish my first ML / Reinforcement Learning paper  
-- Build an open-source RL library for multi-agent environments  
-- Contribute to ML Systems research groups  
-- Complete my MSc with distinction  
+### **Senior Software Engineer – FleetPanda, San Francisco (2018–2023, Remote)**
+- Designed offline-first architectures for real-time operational systems.  
+- Engineered communication with IoT liquid control devices (BLE, websocket).  
+- Led a large cross-functional engineering team (18+ engineers).  
+- Automated CI/CD pipelines and improved release quality.  
+
+---
+
+### **Engineering Leadership & CTO Roles (2012–2018)**
+- Defined long-term technical vision across multiple companies.  
+- Built end-to-end mobile and web applications using best practices (SOLID, DRY, KISS).  
+- Oversaw architecture design, code quality, and team mentoring.  
+
+---
+
+## 🧠 Technical Skills
+
+### **Programming & Development**
+- Python, JavaScript, TypeScript, SQL, NoSQL  
+- React, React Native, Node.js  
+- REST APIs, GraphQL, CI/CD pipelines  
+- Firebase, Supabase, AWS/GCP basics  
+
+### **AI & Machine Learning**
+- Scikit-learn, NumPy, Pandas  
+- TensorFlow, PyTorch  
+- Classical ML (regression, clustering, feature engineering)  
+- Deep learning fundamentals (CNNs)  
+- Reinforcement learning basics  
+- Generative AI integrations (OpenAI APIs, Langchain)  
+
+### **Cloud & Systems**
+- Distributed systems  
+- Offline-first architecture  
+- Real-time data streams  
+- Cloud Functions, automation, deployment  
+
+---
+
+## 🤝 Soft Skills & Strengths
+
+- **Fast learner** — able to adapt quickly to new tools, environments, and responsibilities  
+- **Strong analytical thinker** — experienced in debugging, architectural decisions, and problem isolation  
+- **Leadership & mentoring** — led teams up to 18 engineers, established coding standards, improved engineering culture  
+- **Clear communicator** — strong written & verbal communication from years of cross-team collaboration  
+- **Structured & organised** — disciplined with documentation, planning, and delivery  
+- **Freelancer mindset** — independent, resourceful, and capable of managing full project lifecycles  
+- **High ownership** — naturally takes responsibility from design to deployment  
+
+---
+
+## 📝 Blog Series (2024–2025)
+
+I write about my learning journey, fundamentals, and applied ML topics:  
+
+🔗 **https://YOUR-BLOG-LINK**
+
+Latest posts include:  
+- Gradient Descent Intuition  
+- Bayesian Regression  
+- CNNs From Scratch  
+- Reinforcement Learning Basics  
+- Thinking Like a System Architect in ML  
+
+More coming soon.
+
+---
+
+## 🌱 What I’m Working On Next
+
+- Building structured GitHub repositories for my MSc coursework  
+- Writing deeper ML and AI articles  
+- Creating small open-source projects  
+- Strengthening theoretical and applied ML knowledge  
+- Preparing for placements & research pathways  
+- Improving portfolio with real projects  
 
 ---
 
 ## 📫 Contact Me
-**Email:** sth.shilu@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/shilushrestha
-**GitHub:** https://github.com/shilu-stha
+
+If you’d like to collaborate, hire, or discuss ideas, feel free to reach out:
+
+📧 **sth.shilu@gmail.com**  
+🌍 Bath, United Kingdom  
+
+---
+
+_Thank you for visiting my profile! This page will continue to evolve throughout my MSc and upcoming projects._
