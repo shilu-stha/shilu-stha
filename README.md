@@ -135,7 +135,7 @@ If you’d like to collaborate, hire, or discuss ideas, feel free to reach out:
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shilu-stha&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shilu-stha&theme=highcontrast)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilu-stha&show_icons=true&theme=tokyonight)
 
