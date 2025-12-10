@@ -40,42 +40,6 @@ My background combines **strong engineering depth** with **research-driven curio
 A series of research-oriented articles I wrote while shifting into ML.
 
 📖 **https://YOUR-WEBSITE/blog**
-
-- Gradient Descent Intuition (2024)  
-- Bayesian Linear Regression (2024)  
-- CNNs From Scratch (2025)  
-- ML Systems Thinking (2025)  
-- Multi-Agent RL Exploration (2025)
-
----
-
-## 🧪 Featured Projects (Pinned Repos)
-
-### 📌 **1. Multi-Agent Reinforcement Learning Environment**  
-A two-agent RL gridworld with Q-learning, policy evolution, and cooperative vs competitive dynamics.  
-**Tech:** Python, NumPy, RL algorithms
-
-### 📌 **2. CNN From Scratch (NumPy)**  
-End-to-end CNN implementation with manual backprop, feature map visualisation.  
-**Tech:** Python, NumPy, Matplotlib
-
-### 📌 **3. Bayesian Linear Regression Notebook**  
-Posterior predictive sampling, priors, uncertainty visualisation.  
-**Tech:** Python, PyMC / manual Bayes
-
-### 📌 **4. ML Foundations Notebooks (MSc Coursework)**  
-Optimisation, probability, linear models, deep learning exercises.  
-**Tech:** Python, Jupyter
-
-### 📌 **5. React Native – Multi-language CRM System (Danphe)**  
-Worked on LLM integration (GPT-4o), embeddings, RAG testing frameworks.  
-**Tech:** React Native, TypeScript, Firebase  
-_Experience referenced from CV_  [oai_citation:6‡CV Shilu Shrestha.pdf](sediment://file_000000003040720a9c736b93ab8d7fa7)
-
-### 📌 **6. Offline-first Architecture for FleetPanda**  
-Designed distributed synchronisation layers for real-time data systems.  
-_Experience referenced from CV_  [oai_citation:7‡CV Shilu Shrestha.pdf](sediment://file_000000003040720a9c736b93ab8d7fa7)
-
 ---
 
 ## 🛠️ Skills
@@ -100,22 +64,6 @@ Pokhara University (2013)
 
 ---
 
-## 💬 Cover Letter Highlights
-
-### 🔹 Quantitative Trading & AI Analyst (36 South)  
-- Applied deep learning and RL at MSc level  
-- Strong background in complex system architecture  
-- LLM evaluation, optimisation, and testing frameworks  
-_Referenced from your cover letter_  [oai_citation:9‡CoverLetter Shilu Shrestha.pdf](sediment://file_0000000080e0720a97004205c5bb7b50)
-
-### 🔹 AI & Data Risk Analyst (Rothesay)  
-- Deep experience across the full stack  
-- Experience integrating IoT + mobile + server APIs  
-- Strong engineering discipline & SDLC leadership  
-_Referenced from your cover letter_  [oai_citation:10‡Coverletter_Shilu.pdf](sediment://file_00000000e5a4720ab43a7fa7f2aa5d8e)
-
----
-
 ## 🌱 Currently Learning
 - Multi-Agent RL  
 - Distributed ML Training  
@@ -133,6 +81,6 @@ _Referenced from your cover letter_  [oai_citation:10‡Coverletter_Shilu.pdf](s
 ---
 
 ## 📫 Contact Me
-**Email:** ss5933@bath.ac.uk  
-**LinkedIn:** https://linkedin.com/in/YOUR-PROFILE  
-**GitHub:** https://github.com/YOUR-USERNAME
+**Email:** sth.shilu@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/shilushrestha
+**GitHub:** https://github.com/shilu-stha
