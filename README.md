@@ -3,7 +3,7 @@
 Bath, United Kingdom
 
 📧 sth.shilu@gmail.com
-🔗 Blog: https://YOUR-BLOG-LINK  
+🔗 Blog: https://shilu-stha.github.io/portfolio/blog/  
 🔗 LinkedIn: https://linkedin.com/in/shilushrestha
 🔗 GitHub: https://github.com/shilu-stha
 
@@ -102,7 +102,7 @@ I’m in a transition phase where I am exploring how to combine my **strong engi
 
 I write about my learning journey, fundamentals, and applied ML topics:  
 
-🔗 **https://YOUR-BLOG-LINK**
+🔗 **https://shilu-stha.github.io/portfolio/blog/**
 
 Latest posts include:  
 - Gradient Descent Intuition  
